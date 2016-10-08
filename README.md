@@ -19,7 +19,7 @@ To setup access to your git repos on vogsphere, (only works on LInux / OSX)
 
 ####Enter your 42 password when asked to successfull authenticate.
 
-####lone/Push/Pull from all the Vogsphere Git repos you have access to. 
+####Clone/Push/Pull from all the Vogsphere Git repos you have access to. 
 
 ####To close your connection :
 
