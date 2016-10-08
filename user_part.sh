@@ -4,7 +4,7 @@
 
 mkdir -p ~/.ssh &&
 cat >> ~/.ssh/config << EOF
-Host vgs vgs.42.fr vgse vgse.42.fr vogsphere vogsphere.42.fr vogsphere-exam vogsphere-exam.42.fr
+Host vgs vgs.42.us.org vgse vgse.42.us.org vogsphere vogsphere.42.us.org vogsphere-exam vogsphere-exam.42.us.org
 	User vogsphere
 EOF
 
