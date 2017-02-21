@@ -11,7 +11,7 @@ cat >> /etc/krb5.conf << EOF
     dns_lookup_realm = no
     allow_weak_crypto = true
 
-[[realms]
+[realms]
     42.US.ORG = {
         kdc = kdc.42.us.org
         admin_server = kdc.42.us.org
