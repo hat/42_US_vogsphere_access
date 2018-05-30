@@ -10,6 +10,7 @@ cat >> /etc/krb5.conf << EOF
     dns_lookup_kdc = no
     dns_lookup_realm = no
     allow_weak_crypto = true
+    rdns = false
 
 [realms]
     42.US.ORG = {
